@@ -1,4 +1,4 @@
-service: presigned-upload # change this
+service: presigned-upload-mgmt #
 
 provider:
   name: aws
